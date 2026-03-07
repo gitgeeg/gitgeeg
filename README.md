@@ -1,6 +1,6 @@
 # GTIC / BG9PQV
 
-> Geek And a Ham | 技术爱好者
+> Geek with Ham | 技术爱好者
 
 - **GitHub**: [https://github.com/gitgeeg](https://github.com/gitgeeg)
 - **B站**: [https://space.bilibili.com/2045127831](https://space.bilibili.com/2045127831)
