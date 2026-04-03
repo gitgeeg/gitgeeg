@@ -5,6 +5,7 @@
 - **GitHub**: [https://github.com/gitgeeg](https://github.com/gitgeeg)
 - **B站**: [https://space.bilibili.com/2045127831](https://space.bilibili.com/2045127831)
 - **QRZ**: [https://www.qrz.com/db/BG9PQV](https://www.qrz.com/db/BG9PQV)
+- **AI**: [http://ranges.fun:3000](http://ranges.fun:3000)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gitgeeg&show_icons=true&theme=radical)
 
